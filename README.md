@@ -1,3 +1,4 @@
+Process Mining Dashboard
 
 📌 Overview
 This project is a Process Mining Dashboard developed using Python. 
